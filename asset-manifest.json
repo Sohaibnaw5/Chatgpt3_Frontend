@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Chatgpt3_Frontend/static/css/main.8dc752a0.css",
+    "main.js": "/Chatgpt3_Frontend/static/js/main.082b39d6.js",
+    "static/media/Header Illustration.png": "/Chatgpt3_Frontend/static/media/Header Illustration.36a1fa5c655f23525c5d.png",
+    "static/media/fimage.png": "/Chatgpt3_Frontend/static/media/fimage.1502d596d0a45cf91652.png",
+    "static/media/P1.png": "/Chatgpt3_Frontend/static/media/P1.b8c594107c0678715afa.png",
+    "static/media/P3.png": "/Chatgpt3_Frontend/static/media/P3.09c400fc78c96e4ff788.png",
+    "static/media/P4.png": "/Chatgpt3_Frontend/static/media/P4.beb41199f58f7cf27240.png",
+    "static/media/P5.png": "/Chatgpt3_Frontend/static/media/P5.72041c450fbe88e59333.png",
+    "static/media/P2.png": "/Chatgpt3_Frontend/static/media/P2.4575fb47b66fd76940b0.png",
+    "static/media/Group 81.png": "/Chatgpt3_Frontend/static/media/Group 81.2cfdf724680e3ce7e868.png",
+    "static/media/logo.png": "/Chatgpt3_Frontend/static/media/logo.bf6b9877a1b10a5902c3.png",
+    "static/media/dropbox.png": "/Chatgpt3_Frontend/static/media/dropbox.74056b966ce8bd5829b6.png",
+    "static/media/atlassian.png": "/Chatgpt3_Frontend/static/media/atlassian.b300970d4dad69eef066.png",
+    "index.html": "/Chatgpt3_Frontend/index.html",
+    "main.8dc752a0.css.map": "/Chatgpt3_Frontend/static/css/main.8dc752a0.css.map",
+    "main.082b39d6.js.map": "/Chatgpt3_Frontend/static/js/main.082b39d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dc752a0.css",
+    "static/js/main.082b39d6.js"
+  ]
+}
